@@ -1,0 +1,67 @@
+[
+  {
+    "label": "Credit Card",
+    "list": [
+      {
+        "bankName": {
+          "name": "STATE BANK OF INDIA",
+          "image": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/in/wp-content/uploads/2023/01/SBI-Logo-new-removebg-preview.png"
+        }
+      },
+      {
+        "bankName": {
+          "name": "YES BANK",
+          "image": "https://www.greenclimate.fund/sites/default/files/organisation/logo-yesbank.png"
+        }
+      },
+      {
+        "bankName": {
+          "name": "AU BANK",
+          "image": "https://companieslogo.com/img/orig/AUBANK.NS-1d52c885.png?t=1613441899"
+        }
+      },
+      {
+        "bankName": {
+          "name": "INDUSLND BANK",
+          "image": "https://seekvectors.com/files/download/indusind-bank-logo-05.png"
+        }
+      },
+      {
+        "bankName": {
+          "name": "AXIS BANK",
+          "image": "https://companieslogo.com/img/orig/AXISBANK.BO-8f59e95b.png?t=1672905040"
+        }
+      },
+      {
+        "bankName": {
+          "name": "HSBC BANK",
+          "image": "https://companieslogo.com/img/orig/HSBC-9c9da987.png?t=1647980897"
+        }
+      },
+      {
+        "bankName": {
+          "name": "HDFC BANK",
+          "image": "https://1000logos.net/wp-content/uploads/2021/06/HDFC-Bank-emblem.png"
+        }
+      },
+      {
+        "bankName": {
+          "name": "IDFC BANK",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/IDFC_First_Bank_logo.jpg"
+        }
+      },
+      {
+        "bankName": {
+          "name": "AMERICAN EXPRESS",
+          "image": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/american-express-icon.png"
+        }
+      },
+      {
+        "bankName": {
+          "name": "STANDARD CHARTERED",
+          "image": "https://seeklogo.com/images/S/standard-chartered-logo-6239CA73FB-seeklogo.com.png"
+        }
+      }
+    ]
+  }
+]
